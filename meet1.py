@@ -5,7 +5,7 @@
 # b = 2 digit nim terakhir
 
 a = 24
-b = 67
+b = 63
 hasil = a < b
 print(hasil)
 
