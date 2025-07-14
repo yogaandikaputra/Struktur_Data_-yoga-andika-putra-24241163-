@@ -2,7 +2,7 @@
 # Kelompok
 # Yoga Andika Putra (24241163)
 # Azizah fitria (24241174)
-# Frigio pattipeilohy
+# Frigio pattipeilohy (24241165)
 # =======================================================
 
 def meet1():
